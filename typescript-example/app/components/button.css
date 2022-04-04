@@ -1,0 +1,16 @@
+button {
+  border: none;
+  padding: 16px;
+  font-size: 1em;
+  font-weight: 700;
+  font-family: "DM Sans", sans-serif;
+  background-color: var(--color-red);
+  color: #ffffff;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 24px;
+}
+
+button:hover {
+  background-color: #d13d4a;
+}
